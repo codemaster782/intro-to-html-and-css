@@ -2,7 +2,7 @@
 
 In this code-along, we are going to learn HTML and CSS basics by recreating [THIS GYM WEBSITE](https://www.free-css.com/assets/files/free-css-templates/preview/page276/gymnast/).
 
-![THIS GYM WEBSITE](./demo.png)
+![THIWEBSITES GYM ](./demo.png)
 
 ## System Requirements
 
